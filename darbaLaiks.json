@@ -1,0 +1,14 @@
+[
+    {
+     "Pilsēta": "Rīga",
+     "Darba laiks": "08.00 - 19.00"
+        },
+    {
+     "Pilsēta": "Rēzekne",
+     "Darba laiks": "10.00 - 17.00"
+         },
+    {
+     "Pilsēta": "Liepāja",
+     "Darba laiks": "09.00 - 18.00"
+    }
+   ]
